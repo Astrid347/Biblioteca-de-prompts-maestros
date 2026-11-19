@@ -1,6 +1,6 @@
 # Biblioteca de prompts maestros
 
-**Diseño curricular con inteligencia artificial**  
+**Prompts maestros para el ejercicio docente**  
 26 prompts maestros editables y 4 guías de aplicación para personal docente de formación profesional.
 
 Cada recurso incluye campos entre corchetes, decisiones ante información faltante, procedimiento específico, formato de entrega, criterios de aceptación y un ejemplo de adaptación.
