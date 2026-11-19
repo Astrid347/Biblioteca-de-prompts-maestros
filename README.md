@@ -9,7 +9,7 @@ Cada recurso incluye campos entre corchetes, decisiones ante información faltan
 
 ## Explorar la biblioteca
 
-La [interfaz visual](index.html) permite buscar por producto, filtrar por área, completar campos y copiar o descargar el prompt. Para usarla en su computadora, [descargue el repositorio](https://github.com/Astrid347/Biblioteca-de-prompts-maestros/archive/refs/heads/main.zip), descomprímalo y abra `index.html`. Cuando GitHub Pages esté habilitado, podrá acceder mediante una dirección web.
+La [biblioteca en línea](https://astrid347.github.io/Biblioteca-de-prompts-maestros/) permite buscar por producto, filtrar por área, completar campos y copiar o descargar el prompt. Para usarla en su computadora, [descargue el repositorio](https://github.com/Astrid347/Biblioteca-de-prompts-maestros/archive/refs/heads/main.zip), descomprímalo y abra `index.html`.
 
 También puede consultar todos los recursos desde el catálogo siguiente.
 
